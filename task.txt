@@ -1,0 +1,365 @@
+
+
+generate a website with follow idn content, use structure design with react js multiple clean component structure with proper comment, give it a modern and political themeing along with newspaper like vibes with dark  theme and modern design and gradient, generate a single page for all whole section of page is divided in various section with smooth scrolling, leave palceholder for images(use a placeholder image or empty image) ensure size of images fit even if we apply a large image it is automatically fit in ai, it is fast and modern UI and it is easy to integrate , make it responsive and use  responsive features
+
+
+"Services
+Portfolio
+About
+Contact
+Get Started →
+⚡
+Trusted by 25+ Trusted Clients
+
+From Local
+to Digital Brand.
+We build websites, shoot reels & run SEO — so your business gets Barmer Based,found, trusted, and chosen.
+Get Started
+
+Chat on WhatsApp
+4.9 Rating
+
+50+ Clients
+
+5–10 Day Delivery
+
+100% Satisfaction
+yourshop.in|
+
+
+
+
+Live & Ranking
++50 happy clients
+scroll
+What We Do
+Everything your business needs to win online
+We combine design, content, and strategy — so you don't have to juggle five different agencies.
+
+Web Development
+Custom websites engineered for speed, mobile-first UX, and real conversions. From landing pages to full e-commerce — we ship fast.
+✓Mobile-first responsive design✓SEO-optimised codebase✓Fast 3s load time✓CMS integrationLearn more
+
+Reels & Media
+Scroll-stopping short-form content that grows your social reach and turns followers into customers walking through your door.
+✓Reels & Shorts production✓On-brand visual storytelling✓Caption & hashtag strategy✓Monthly content calendarLearn more
+
+SEO & Growth
+Get found on Google by customers actively searching for you — local SEO, Google Business optimisation, and organic growth strategy.
+✓Google Business Profile✓Local keyword targeting✓On-page & technical SEO✓Monthly ranking reportsLearn more
+Our Work
+Every site here is live right now
+10+ premium websites built on Next.js for politicians, companies, hotels, cafés and shops. Hover any card to scroll the real page.
+
+Built on Next.js
+90+ Lighthouse scores
+Search Console configuredAll work
+Politician
+Business
+Food & Hospitality
+azadsinghrathore.com
+Live
+
+Visit site
+Azad Singh Rathore
+Political Leader · Barmer, Rajasthan
+Politician
+Full campaign presence — leader profile, work timeline, press gallery and a supporter contact flow, indexed on his own name across Rajasthan.
+Next.js
+SEO + GSC
+Hindi + English
+swaroopsinghkhara.com
+Live
+
+Visit site
+Swaroop Singh Khara
+Political Leader · Sheo Constituency
+Politician
+Constituency-first site with issue pages, event coverage and structured data — built so voters searching his name land on his own words first.
+Next.js
+Technical SEO
+Schema markup
+manpasandenterprises.co.in
+Live
+
+Visit site
+Manpasand Enterprises
+Trading & Supply Company
+Business
+Company site with a full product catalogue, enquiry capture and Google Business integration for buyers searching by category.
+Next.js
+Catalogue
+Lead capture
+hemantrajpurohit.in
+Live
+
+Visit site
+Hemant Rajpurohit
+Panchayat Samiti Sadsya
+Politician
+Local leadership site covering ward-level work, public grievance contact and a media section — mobile-first for rural 4G.
+Next.js
+Mobile-first
+GSC verified
+jaibajrangbhojanalay.in
+Live
+
+Visit site
+Jai Bajrang Bhojanalay
+Restaurant · Barmer
+Food & Hospitality
+Digital menu, timings and one-tap call and directions, tuned for “restaurant near me” searches and Google Maps discovery.
+Next.js
+Local SEO
+Maps + Menu
+kishansinghkaludi.in
+Live
+
+Visit site
+Kishan Singh Kaludi
+Sarpanch · Kaludi
+Politician
+Village governance site — development work, schemes and direct contact, published in Hindi for the people who actually vote.
+Next.js
+Hindi content
+Search Console
+Start your project on WhatsApp
+Usually replies within an hour · Delivery in 5–10 days
+Technology Stack
+Technologies We Use
+Modern technologies for scalable, secure and high-performance applications.
+Frontend
+
+React.js
+
+Next.js
+
+HTML5
+
+JavaScript
+Backend
+
+Node.js
+
+Express.js
+
+PHP
+Database
+
+PostgreSQL
+
+MongoDB
+
+MySQL
+
+Firebase
+UI/UX
+
+Figma
+Why Choose Us
+Built for India's local businesses
+We don't just build websites. We build confidence — that your business will be found, trusted, and chosen.
+
+5–10 Days
+Fast Delivery
+From kickoff call to live website — in under two weeks. No slow agencies, no excuses.
+
+Local Budgets
+Built for Results
+Premium design at prices built for Indian local businesses — not MNC rates.
+
+Local Expert
+Local Market Know-how
+We understand local customer behaviour, language, and the competition you face daily.
+
+Growth First
+Growth-First Strategy
+Every pixel and keyword is chosen to drive real customers to your door — not just look good.
+50+
+Businesses Launched
+4.9★
+Average Rating
+100%
+Client Satisfaction
+3+
+Years of Experience
+Leadership
+Meet The Founder
+Building modern digital experiences for Indian businesses with technology, strategy and innovation.
+THE TEAM
+Meet the Founders
+Do log, ek studio — design se deployment tak sab in-house.
+SCANNING
+FACE ANALYSIS
+
+
+INITIALIZING SENSOR
+0%
+ID // ND-001
+SCANNING
+FACE ANALYSIS
+
+
+INITIALIZING SENSOR
+0%
+ID // ND-002
+How It Works
+From idea to live in 4 simple steps
+A smooth, transparent process — you always know what's happening and when.
+💬
+1You Contact Us
+Reach out via WhatsApp or our form. We schedule a free 30-min discovery call to understand your business and goals.
+🎨
+2We Design
+Our designers craft a custom visual identity — wireframes, colour palette, and layout — unique to your brand.
+🛠️
+3We Build
+Our engineers bring the design to life — fast, mobile-optimised, and wired up with all the tools you need.
+🚀
+4You Launch
+Go live in 5–10 days. We handle the domain, hosting, and give you a handoff walkthrough — you're ready to grow.
+Start Your Journey →
+What Clients Say
+Businesses that grew with us
+Don't take our word for it — hear from the shop owners, cafe founders, and school directors we've helped.
+
+
+
+
+
+
+"NextDukaan transformed our chai shop into a proper brand. We now get 30+ orders daily through our website. The whole thing was done in just 8 days!"
+RS
+Rajesh Sharma
+Sharma Chai Corner, Delhi
+Food & Beverage
+
+
+
+
+
+
+"Our school admissions went up 40% after the website launch. Parents can now fill forms online, check fees, and contact teachers — all in one place. Brilliant work."
+PM
+Priya Menon
+Little Stars Academy, Bangalore
+Education
+
+
+
+
+
+
+"I was sceptical about spending on digital marketing, but NextDukaan's ROI was unbelievable. We're now #1 on Google for our area. Worth every rupee."
+AK
+Aditya Kumar
+Kumar Hardware Store, Pune
+Retail
+
+
+
+
+
+
+"The reels they made for us went viral — we got 500+ DMs in a week. Our salon is booked out for the next month. These guys know their craft."
+SJ
+Sunita Joshi
+Glow & Grow Salon, Mumbai
+Beauty & Wellness
+
+
+
+
+
+
+"Fast delivery, clean execution, and they actually care about results — not just deliverables. Our new website looks premium and converts visitors to walk-ins."
+MR
+Mohammed Rafi
+Al-Noor Bakery, Hyderabad
+Bakery & Café
+
+
+
+
+
+
+"We had zero online presence. Now we have a great website, active Instagram, and customers finding us on Google. NextDukaan made it all simple and stress-free."
+KR
+Kavita Reddy
+Reddy Flowers & Gifts, Chennai
+Retail & Events
+
+
+
+
+
+4.9/5 average rating across 50+ client projects
+Get In Touch
+Ready to take your business online?
+Join 50+ businesses already growing with NextDukaan — fill the form or just WhatsApp us.
+WhatsApp Us →
+Send a Message
+Send us a message
+We respond within 2 hours during business hours (Mon–Sat, 9am–7pm IST).
+Your Name *
+Phone Number *
+Service You Need *
+Select a service…
+Web Development
+Reels & Social Media
+SEO & Google Ranking
+Full Growth Package
+Custom / Not Sure Yet
+Tell us about your business
+
+Send Message
+Or reach us directly: nextdukaan.bussiness@gmail.com
+Helping Indian local businesses — shops, cafes, schools — build a powerful digital presence. From idea to live in days.
+Local to Digital
+
+
+
+Navigation
+
+Services
+Portfolio
+Why Us
+Process
+Testimonials
+Contact
+Contact
+
+
+nextdukaan.bussiness@gmail.com
+
+
++91 9462474897
+
+
+WhatsApp Chat
+
+Business Hours
+Mon – Sat: 9:00 AM – 7:00 PM IST
+Sunday: By appointment
+© 2026 NextDukaan. All rights reserved.
+Made with❤️
+in India 🇮🇳Privacy Policy
+Terms of Service
+Chat with us!
+We reply in minutes 🚀
+
+
+"
+
+
+Key Features for a Political & Business Portfolio Website
+
+Political Campaign-First Visual Hierarchy: High-contrast color palette (deep saffron, tricolor accents, or navy blue/crimson), prominent leader profile showcases, dynamic work timelines, and bilingual (Hindi/English) switching capabilities.
+
+Single-Page Smooth Navigation: Sticky glassmorphism header with direct smooth-scrolling anchors (#services, #portfolio, #about, #contact) and an omnipresent floating WhatsApp CTA badge.
+
+Interactive Portfolio Grid: Filterable showcase cards (Politician, Business, Hospitality) with live-preview links, verified badge indicators, and SEO/tech tag pills.
+
+High-Conversion Lead Flow: Embedded WhatsApp quick-connect form, direct email triggering, tap-to-call direct links, and a structured 4-step "How It Works" roadmap.
+
+Performance & SEO Scaffolding: Mobile-first fluid layout using CSS Grid/Flexbox, native HTML microdata schema hooks, and zero-dependency vanilla JS for sub-second load speeds.
