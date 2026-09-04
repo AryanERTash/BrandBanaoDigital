@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E1B4B" />
+    </linearGradient>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="50%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#EC4899" />
+    </linearGradient>
+  </defs>
+
+  <!-- Circular Base -->
+  <circle cx="256" cy="256" r="240" fill="url(#bgGradient)" stroke="url(#brandGradient)" stroke-width="12" />
+
+  <!-- Monogram B Symbol -->
+  <g fill="none" stroke="url(#brandGradient)" stroke-width="44" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Vertical Spine -->
+    <path d="M 180 136 L 180 376" />
+    <!-- Top Loop -->
+    <path d="M 180 136 H 276 C 320 136 348 164 348 200 C 348 236 320 256 276 256 H 180" />
+    <!-- Bottom Loop -->
+    <path d="M 180 256 H 292 C 340 256 372 284 372 320 C 372 356 340 376 292 376 H 180" />
+  </g>
+  
+  <!-- Digital Node Glow Accent -->
+  <circle cx="348" cy="200" r="14" fill="#EC4899" />
+  <circle cx="372" cy="320" r="14" fill="#6366F1" />
+</svg>

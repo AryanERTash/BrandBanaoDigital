@@ -12,7 +12,7 @@ export function PortfolioSection() {
         />
 
         <div className="portfolio-meta">
-          <span>Built on Next.js</span>
+          <span>Built on modern web principles</span>
           <span>90+ Lighthouse scores</span>
           <span>Search Console configured</span>
           <a href="#contact">All work</a>
@@ -21,7 +21,7 @@ export function PortfolioSection() {
         <div className="portfolio-grid">
           {portfolioProjects.map((project) => (
             <article className="portfolio-card" key={project.site}>
-              <PlaceholderImage label={`${project.title} preview`} />
+              <PlaceholderImage label={`${project.title} preview`} src={project.src} />
 
               <div className="portfolio-card-body">
                 <div className="portfolio-card-top">
@@ -58,7 +58,7 @@ export function PortfolioSection() {
                   ))}
                 </div>
 
-                <a className="inline-link" href="#contact">
+                <a className="inline-link" href={'https://'+project.site} target="_blank" rel="noopener noreferrer">
                   Visit site
                 </a>
               </div>

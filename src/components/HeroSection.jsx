@@ -33,11 +33,11 @@ export function HeroSection() {
           </h1>
           <p className="hero-lead">
             We build websites, shoot reels and run SEO so your business gets
-            found, trusted and chosen with a Barmer-rooted digital presence.
+            found, trusted and chosen with a All India-rooted digital presence.
           </p>
 
           <div className="hero-actions">
-            <a className="button button-primary button-whatsapp" href="https://wa.me/8800886698" target="_blank" rel="noreferrer">
+            <a className="button button-primary button-whatsapp" href="https://wa.me/918800886698?text=Hi%20I%20want%20to%20learn%20more%20and%20avail%20the%20services!" target="_blank" rel="noreferrer">
               Chat on WhatsApp
             </a>
             <a className="button button-secondary" href="#contact">

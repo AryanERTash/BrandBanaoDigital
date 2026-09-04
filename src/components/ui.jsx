@@ -17,10 +17,7 @@ export function PlaceholderImage({ label, src }) {
         <span className="grid-line grid-line-vertical" />
         <span className="focus-ring" />
       </div>
-      <div className="placeholder-overlay">
-        <span className="placeholder-kicker">Placeholder Visual</span>
-        <strong>{label}</strong>
-      </div>
+	  
     </div>
   );
 }

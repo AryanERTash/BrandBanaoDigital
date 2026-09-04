@@ -25,7 +25,7 @@ export function ContactSection() {
               <li>SEO, Google Business and ranking support</li>
               <li>Reels, branding and local campaign launches</li>
             </ul>
-            <a className="button button-whatsapp button-whatsapp-large" href="https://wa.me/" target="_blank" rel="noreferrer">
+            <a className="button button-whatsapp button-whatsapp-large" href="https://wa.me/918800886698?text=Hi%20I%20want%20to%20learn%20more%20and%20avail%20the%20services!" target="_blank" rel="noreferrer">
               Open WhatsApp Now
             </a>
           </div>

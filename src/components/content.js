@@ -66,19 +66,20 @@ export const services = [
 
 export const portfolioProjects = [
   {
-    site: "azadsinghrathore.com",
-    title: "Azad Singh Rathore",
-    category: "Politician",
-    meta: "Political Leader · Barmer, Rajasthan",
-    location: "Barmer, Rajasthan",
+    site: "theindianspiceco.in",
+    title: "The Indian Spice Co.",
+    category: "Spice & Food",
+    meta: "Spice Company · Delhi",
+    location: "Delhi",
+	src: '/client-7.png',
     summary:
-      "Full campaign presence with leader profile, work timeline, press gallery and supporter contact flow, indexed across Rajasthan.",
+      "This project focuses on modernizing The India Core's web presence through a scalable, user-centric website integrated with a sophisticated Generative AI chatbot. By combining a clean, responsive web interface with real-time AI conversation capabilities, the platform drives deeper user engagement, streamlines information delivery, and showcases cutting-edge web engineering.",
     highlights: [
-      { label: "Campaign Presence", tone: "lime" },
-      { label: "Press Gallery", tone: "amber" },
-      { label: "Supporter Flow", tone: "orange" },
+      { label: "Generative AI", tone: "lime" },
+      { label: "Startup", tone: "amber" },
+      { label: "Shopify", tone: "orange" },
     ],
-    tags: ["Next.js", "SEO + GSC", "Hindi + English"],
+    tags: ["Shopify", "SEO + GSC", "Hindi + English"],
   },
   {
     site: "swaroopsinghkhara.com",
@@ -86,6 +87,7 @@ export const portfolioProjects = [
     category: "Politician",
     meta: "Political Leader · Sheo Constituency",
     location: "Sheo Constituency",
+	src: '/client-2.webp',
     summary:
       "Constituency-first site with issue pages, event coverage and structured data so voters searching his name land on his own platform first.",
     highlights: [
@@ -101,6 +103,7 @@ export const portfolioProjects = [
     category: "Business",
     meta: "Trading & Supply Company",
     location: "Barmer Trade Network",
+	src: '/client-3.webp',
     summary:
       "Company site with a full product catalogue, enquiry capture and Google Business integration for buyers searching by category.",
     highlights: [
@@ -110,27 +113,14 @@ export const portfolioProjects = [
     ],
     tags: ["Next.js", "Catalogue", "Lead capture"],
   },
-  {
-    site: "hemantrajpurohit.in",
-    title: "Hemant Rajpurohit",
-    category: "Politician",
-    meta: "Panchayat Samiti Sadsya",
-    location: "Ward-Level Rural Outreach",
-    summary:
-      "Local leadership site covering ward-level work, grievance contact and a media section, tuned for rural 4G and mobile-first browsing.",
-    highlights: [
-      { label: "Grievance Contact", tone: "lime" },
-      { label: "Media Updates", tone: "amber" },
-      { label: "Rural 4G Ready", tone: "orange" },
-    ],
-    tags: ["Next.js", "Mobile-first", "GSC verified"],
-  },
+  
   {
     site: "jaibajrangbhojanalay.in",
     title: "Jai Bajrang Bhojanalay",
     category: "Food & Hospitality",
     meta: "Restaurant · Barmer",
     location: "Barmer Food Discovery",
+	src: '/client-5.webp',
     summary:
       "Digital menu, timings and one-tap calls and directions, built for discovery through restaurant and maps searches.",
     highlights: [
@@ -146,6 +136,7 @@ export const portfolioProjects = [
     category: "Politician",
     meta: "Sarpanch · Kaludi",
     location: "Kaludi Village",
+	src: '/client-6.webp',
     summary:
       "Village governance site with development work, schemes and direct contact, published in Hindi for the people who actually vote.",
     highlights: [
@@ -153,7 +144,7 @@ export const portfolioProjects = [
       { label: "Scheme Updates", tone: "amber" },
       { label: "Direct Contact", tone: "orange" },
     ],
-    tags: ["Next.js", "Hindi content", "Search Console"],
+    tags: [ "Hindi content", "Search Console"],
   },
 ];
 
@@ -201,18 +192,20 @@ export const impactStats = [
 export const founders = [
   {
     id: "ND-001",
-    name: "Founder One",
+    name: "Chetan Yadav",
     role: "Strategy, Design & Positioning",
+	image: "/chetan.jpg",
     blurb:
-      "Turns local business stories into bold digital identities with a campaign-style editorial approach.",
+      "Has years of dealing with client and experience in understanding client requirement.",
   },
   {
     id: "ND-002",
-    name: "Founder Two",
-    role: "Engineering, SEO & Delivery",
+    name: "Aryan Kumar",
+    role: "Development & Designing",
+	image: "/aryan.jpg",
     blurb:
       "Builds fast launch systems, clean codebases and search visibility that supports real business growth.",
-  },
+  }
 ];
 
 export const processSteps = [

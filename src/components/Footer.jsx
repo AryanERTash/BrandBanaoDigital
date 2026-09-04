@@ -3,7 +3,7 @@ export function Footer() {
     <footer className="site-footer">
       <div className="container footer-row">
         <div>
-          <strong>YourShop.in</strong>
+          <strong>BrandBanaoDigital.in</strong>
           <p>Modern websites, political storytelling and local growth systems.</p>
         </div>
         <div className="footer-links">
