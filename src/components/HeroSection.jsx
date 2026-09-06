@@ -34,6 +34,7 @@ export function HeroSection() {
           <p className="hero-lead">
             We build websites, shoot reels and run SEO so your business gets
             found, trusted and chosen with a All India-rooted digital presence.
+			Starting at just <b>₹5,999 /-</b>
           </p>
 
           <div className="hero-actions">
