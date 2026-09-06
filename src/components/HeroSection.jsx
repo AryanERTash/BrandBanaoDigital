@@ -15,7 +15,7 @@ export function HeroSection() {
 
       <div className="container hero-grid">
         <div className="hero-copy">
-          <span className="eyebrow">Trusted by 15+ high profile clients</span>
+          <span className="eyebrow">Chosen by 15+ notable clients</span>
           <div className="hero-offerings" aria-label="Top services">
             {heroOfferings.map((item) => (
               <span
@@ -27,13 +27,12 @@ export function HeroSection() {
             ))}
           </div>
           <h1>
-            From Local
+            Take Your Local
             <br />
-            to Digital Brand.
+            Brand Online.
           </h1>
           <p className="hero-lead">
-            We build websites, shoot reels and run SEO so your business gets
-            found, trusted and chosen with a All India-rooted digital presence.
+            We help local brands to grow their online presence with a complete digital solution. Our services include website development, social media content creation, and local SEO optimization.
 			Starting at just <b>₹5,999 /-</b>
           </p>
 
@@ -42,10 +41,10 @@ export function HeroSection() {
               Chat on WhatsApp
             </a>
             <a className="button button-secondary" href="#contact">
-              WhatsApp Details
+              View WhatsApp Details
             </a>
             <a className="hero-whatsapp-note" href="https://wa.me/" target="_blank" rel="noreferrer">
-              Usually replies within an hour
+              Replies are usually sent within an hour
             </a>
           </div>
 
@@ -59,7 +58,7 @@ export function HeroSection() {
 
           <div className="hero-footnote">
             <span>BrandBanaoDigital.in</span>
-            <span>Live & Ranking</span>
+            <span>Live and Search Ready</span>
             <span>+50 happy clients</span>
           </div>
         </div>
@@ -67,13 +66,13 @@ export function HeroSection() {
         <aside className="hero-panel">
           <div className="panel-card">
             <div className="panel-label-row">
-              <span>Field Bulletin</span>
+              <span>Studio Bulletin</span>
               <span>Scroll</span>
             </div>
-            <h3>Everything your business needs to win online</h3>
+            <h3>One place for the digital work your business needs</h3>
             <p>
-              We combine design, content and strategy so you do not have to
-              juggle five different agencies.
+              We bring design, content and growth planning together so your
+              launch stays simple and coordinated.
             </p>
 
             <div className="panel-metrics">

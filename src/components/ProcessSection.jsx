@@ -7,8 +7,8 @@ export function ProcessSection() {
       <div className="container">
         <SectionHeading
           eyebrow="How It Works"
-          title="From idea to live in 4 simple steps"
-          description="A smooth, transparent process where you always know what's happening and when."
+          title="Your idea goes live in four clear steps"
+          description="The process stays simple and visible, so you know what is being built and when each stage is moving."
           align="center"
         />
 

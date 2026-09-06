@@ -8,8 +8,8 @@ export function WhyChooseUsSection() {
         <div>
           <SectionHeading
             eyebrow="Why Choose Us"
-            title="Built for India's local businesses"
-            description="We don't just build websites. We build confidence that your business will be found, trusted and chosen."
+            title="Made for local businesses across India"
+            description="Our work goes beyond putting pages online. We help your business look credible, show up in search and become easier to choose."
           />
         </div>
 

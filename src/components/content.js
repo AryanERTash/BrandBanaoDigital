@@ -8,15 +8,15 @@ export const navigationItems = [
 export const heroStats = [
   "4.9 Rating",
   "50+ Clients",
-  "5–10 Day Delivery",
-  "100% Satisfaction",
+  "5–10 Day Launch",
+  "100% Client Focus",
 ];
 
 export const tickerItems = [
-  "Trusted by 15+ high profile clients",
-  "Local businesses to political leaders",
-  "Fast launch timelines",
-  "Newspaper-style digital presence",
+  "Chosen by 15+ notable clients",
+  "From local shops to public leaders",
+  "Quick website launch cycles",
+  "Editorial-style online presence",
 ];
 
 export const heroOfferings = [
@@ -32,34 +32,34 @@ export const services = [
   {
     title: "Web Development",
     description:
-      "Custom websites engineered for speed, mobile-first UX, and real conversions. From landing pages to full e-commerce, we ship fast.",
+      "Tailor-made websites built for speed, mobile usability and measurable enquiries. Whether it is a landing page or an e-commerce build, we move quickly.",
     bullets: [
-      "Mobile-first responsive design",
-      "SEO-optimised codebase",
-      "Fast 3s load time",
+      "Responsive layouts for every screen",
+      "Search-friendly site structure",
+      "Fast loading experience",
       "CMS integration",
     ],
   },
   {
     title: "Reels & Media",
     description:
-      "Scroll-stopping short-form content that grows your social reach and turns followers into customers walking through your door.",
+      "Short-form videos shaped to earn attention, grow your reach and turn online viewers into real-world customers.",
     bullets: [
       "Reels and Shorts production",
-      "On-brand visual storytelling",
-      "Caption and hashtag strategy",
-      "Monthly content calendar",
+      "Visual stories matched to your brand",
+      "Caption and hashtag planning",
+      "Monthly posting roadmap",
     ],
   },
   {
     title: "SEO & Growth",
     description:
-      "Get found on Google by customers actively searching for you with local SEO, Google Business optimisation, and practical growth strategy.",
+      "Help nearby customers discover you on Google through local SEO, Google Business improvements and practical growth planning.",
     bullets: [
       "Google Business Profile",
       "Local keyword targeting",
-      "On-page and technical SEO",
-      "Monthly ranking reports",
+      "Page-level and technical SEO",
+      "Monthly visibility reports",
     ],
   },
 ];
@@ -73,7 +73,7 @@ export const portfolioProjects = [
     location: "Delhi",
 	src: '/client-7.png',
     summary:
-      "This project focuses on modernizing The India Core's web presence through a scalable, user-centric website integrated with a sophisticated Generative AI chatbot. By combining a clean, responsive web interface with real-time AI conversation capabilities, the platform drives deeper user engagement, streamlines information delivery, and showcases cutting-edge web engineering.",
+      "A modern web presence for The Indian Spice Co. with a clean responsive store experience and Generative AI chatbot support. The build makes product information easier to explore, improves engagement and keeps the brand ready to scale.",
     highlights: [
       { label: "Generative AI", tone: "lime" },
       { label: "Startup", tone: "amber" },
@@ -89,7 +89,7 @@ export const portfolioProjects = [
     location: "Sheo Constituency",
 	src: '/client-2.webp',
     summary:
-      "Constituency-first site with issue pages, event coverage and structured data so voters searching his name land on his own platform first.",
+      "A voter-focused website with issue pages, event updates and structured data, helping people who search his name reach his official platform first.",
     highlights: [
       { label: "Issue Pages", tone: "lime" },
       { label: "Event Coverage", tone: "amber" },
@@ -105,7 +105,7 @@ export const portfolioProjects = [
     location: "Barmer Trade Network",
 	src: '/client-3.webp',
     summary:
-      "Company site with a full product catalogue, enquiry capture and Google Business integration for buyers searching by category.",
+      "A business website featuring a detailed product catalogue, enquiry collection and Google Business connection for category-based buyer searches.",
     highlights: [
       { label: "Product Catalogue", tone: "lime" },
       { label: "Lead Enquiry", tone: "amber" },
@@ -122,7 +122,7 @@ export const portfolioProjects = [
     location: "Barmer Food Discovery",
 	src: '/client-5.webp',
     summary:
-      "Digital menu, timings and one-tap calls and directions, built for discovery through restaurant and maps searches.",
+      "A restaurant site with menu details, opening hours, quick calls and directions, designed to show up when people search food and maps listings.",
     highlights: [
       { label: "Digital Menu", tone: "lime" },
       { label: "Maps Discovery", tone: "amber" },
@@ -138,7 +138,7 @@ export const portfolioProjects = [
     location: "Kaludi Village",
 	src: '/client-6.webp',
     summary:
-      "Village governance site with development work, schemes and direct contact, published in Hindi for the people who actually vote.",
+      "A Hindi-first governance website covering development work, schemes and direct contact details for the village community it serves.",
     highlights: [
       { label: "Hindi Content", tone: "lime" },
       { label: "Scheme Updates", tone: "amber" },
@@ -160,25 +160,25 @@ export const differentiators = [
     label: "5–10 Days",
     title: "Fast Delivery",
     description:
-      "From kickoff call to live website in under two weeks. No slow agencies, no excuses.",
+      "From the first discussion to a live website, we keep the timeline tight and the process moving.",
   },
   {
     label: "Local Budgets",
     title: "Built for Results",
     description:
-      "Premium design at rates shaped for Indian local businesses rather than enterprise overhead.",
+      "High-quality design priced with Indian local businesses in mind, without unnecessary agency overhead.",
   },
   {
     label: "Local Expert",
     title: "Local Market Know-how",
     description:
-      "We understand regional customer behaviour, language and the competition you face daily.",
+      "We understand regional audiences, local language needs and the competitors your customers compare you with.",
   },
   {
     label: "Growth First",
     title: "Growth-First Strategy",
     description:
-      "Every pixel and keyword is chosen to drive real customers to your door, not just look polished.",
+      "Design decisions and keywords are planned to bring genuine enquiries, not just a polished-looking page.",
   },
 ];
 
@@ -196,7 +196,7 @@ export const founders = [
     role: "Strategy, Design & Positioning",
 	image: "/chetan.jpg",
     blurb:
-      "Has years of dealing with client and experience in understanding client requirement.",
+      "Brings hands-on client experience and a strong understanding of how to turn business requirements into clear direction.",
   },
   {
     id: "ND-002",
@@ -204,7 +204,7 @@ export const founders = [
     role: "Development & Designing",
 	image: "/aryan.jpg",
     blurb:
-      "Builds fast launch systems, clean codebases and search visibility that supports real business growth.",
+      "Creates quick-launch websites, clean codebases and search visibility that supports practical business growth.",
   }
 ];
 
@@ -214,27 +214,27 @@ export const processSteps = [
     icon: "💬",
     title: "You Contact Us",
     description:
-      "Reach out via WhatsApp or the contact form. We schedule a free 30-minute discovery call to understand your goals.",
+      "Message us on WhatsApp or send your details through the contact section. We use a free 30-minute call to understand what you want to achieve.",
   },
   {
     step: "2",
     icon: "🎨",
     title: "We Design",
     description:
-      "We craft a custom visual identity with wireframes, a color palette and page structure shaped for your brand.",
+      "We prepare the visual direction, wireframes, colour system and page flow around your brand and audience.",
   },
   {
     step: "3",
     icon: "🛠️",
     title: "We Build",
     description:
-      "Our engineers turn the concept into a fast, mobile-optimised site connected to the tools you need.",
+      "The concept becomes a fast mobile-ready website connected with the tools your business needs.",
   },
   {
     step: "4",
     icon: "🚀",
     title: "You Launch",
     description:
-      "Go live in 5–10 days. We handle domain guidance, hosting setup and a clear handoff walkthrough.",
+      "Your site goes live in 5–10 days, with help on domain setup, hosting and a simple handoff walkthrough.",
   },
 ];

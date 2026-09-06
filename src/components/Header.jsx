@@ -15,7 +15,7 @@ export function Header() {
           <span className="brand-dot" />
           <div>
             <strong>BrandBanaoDigital.in</strong>
-            <small>Digital Brand Studio</small>
+            <small>Web, Reels and SEO Studio</small>
           </div>
         </a>
 
@@ -28,7 +28,7 @@ export function Header() {
         </nav>
 
         <a className="button button-primary header-cta" href="#contact">
-          Get Started <span aria-hidden="true">→</span>
+          Start Project <span aria-hidden="true">→</span>
         </a>
       </div>
 
@@ -42,7 +42,7 @@ export function Header() {
         </nav>
 
         <a className="button button-primary mobile-cta" href="#contact">
-          Get Started <span aria-hidden="true">→</span>
+          Start Project <span aria-hidden="true">→</span>
         </a>
       </div>
     </header>

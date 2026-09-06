@@ -7,15 +7,15 @@ export function PortfolioSection() {
       <div className="container">
         <SectionHeading
           eyebrow="Our Work"
-          title="Every site here is live right now"
-          description="Premium websites built for politicians, companies, hotels, cafes and local shops with performance and search visibility in mind."
+          title="Live projects built for real clients"
+          description="Websites for leaders, companies, restaurants and local businesses, created with performance and search visibility as core priorities."
         />
 
         <div className="portfolio-meta">
-          <span>Built on modern web principles</span>
+          <span>Built with modern web practices</span>
           <span>90+ Lighthouse scores</span>
-          <span>Search Console configured</span>
-          <a href="#contact">All work</a>
+          <span>Search Console setup included</span>
+          <a href="#contact">Discuss your project</a>
         </div>
 
         <div className="portfolio-grid">
@@ -59,7 +59,7 @@ export function PortfolioSection() {
                 </div>
 
                 <a className="inline-link" href={'https://'+project.site} target="_blank" rel="noopener noreferrer">
-                  Visit site
+                  Open website
                 </a>
               </div>
             </article>

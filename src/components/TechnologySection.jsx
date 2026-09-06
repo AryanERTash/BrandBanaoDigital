@@ -7,8 +7,8 @@ export function TechnologySection() {
       <div className="container">
         <SectionHeading
           eyebrow="Technology Stack"
-          title="Technologies We Use"
-          description="Modern technologies for scalable, secure and high-performance applications."
+          title="Tools We Build With"
+          description="Reliable modern technologies for fast, secure and scalable web applications."
         />
 
         <div className="tech-grid">

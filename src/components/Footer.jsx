@@ -4,10 +4,10 @@ export function Footer() {
       <div className="container footer-row">
         <div>
           <strong>BrandBanaoDigital.in</strong>
-          <p>Modern websites, political storytelling and local growth systems.</p>
+          <p>Fast websites, campaigning and local growth support. Supporting local businesses.</p>
         </div>
         <div className="footer-links">
-          <a href="#services">Services</a>
+          <a href="#services">Our Services</a>
           <a href="#portfolio">Portfolio</a>
           <a href="#about">About</a>
           <a href="#contact">Contact</a>

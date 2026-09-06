@@ -7,14 +7,14 @@ export function TeamSection() {
 			<div className="container">
 				<SectionHeading
 					eyebrow="Leadership"
-					title="Meet The Founder"
-					description="Building modern digital experiences for Indian businesses with technology, strategy and innovation."
+					title="Meet the People Behind the Studio"
+					description="We create modern digital experiences for Indian businesses by combining strategy, design and technology."
 				/>
 
 				<div className="team-banner">
 					<span className="eyebrow">The Team</span>
 					<h3>Meet the Founders</h3>
-					<p>Do log, ek studio — design se deployment tak sab in-house.</p>
+					<p>Do log, ek studio — planning, design aur deployment sab in-house.</p>
 				</div>
 
 				<div className="founder-grid">

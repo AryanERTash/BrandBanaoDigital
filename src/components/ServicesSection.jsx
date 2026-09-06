@@ -7,8 +7,8 @@ export function ServicesSection() {
       <div className="container">
         <SectionHeading
           eyebrow="What We Do"
-          title="Everything your business needs to win online"
-          description="We combine design, content and strategy so you don't have to juggle five different agencies."
+          title="Digital services that help your business grow online"
+          description="Design, content and growth strategy are handled together, giving you one clear team from planning to launch."
         />
 
         <div className="service-grid">
@@ -22,7 +22,7 @@ export function ServicesSection() {
                 ))}
               </ul>
               <a href="#contact" className="inline-link">
-                Learn more
+                Explore service
               </a>
             </article>
           ))}
