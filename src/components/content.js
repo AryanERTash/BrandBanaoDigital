@@ -81,22 +81,22 @@ export const portfolioProjects = [
     ],
     tags: ["Shopify", "SEO + GSC", "Hindi + English"],
   },
-  {
-    site: "swaroopsinghkhara.com",
-    title: "Swaroop Singh Khara",
-    category: "Politician",
-    meta: "Political Leader · Sheo Constituency",
-    location: "Sheo Constituency",
-	src: '/client-2.webp',
-    summary:
-      "A voter-focused website with issue pages, event updates and structured data, helping people who search his name reach his official platform first.",
-    highlights: [
-      { label: "Issue Pages", tone: "lime" },
-      { label: "Event Coverage", tone: "amber" },
-      { label: "Structured Data", tone: "orange" },
-    ],
-    tags: ["Next.js", "Technical SEO", "Schema markup"],
-  },
+//   {
+//     site: "swaroopsinghkhara.com",
+//     title: "Swaroop Singh Khara",
+//     category: "Politician",
+//     meta: "Political Leader · Sheo Constituency",
+//     location: "Sheo Constituency",
+// 	src: '/client-2.webp',
+//     summary:
+//       "A voter-focused website with issue pages, event updates and structured data, helping people who search his name reach his official platform first.",
+//     highlights: [
+//       { label: "Issue Pages", tone: "lime" },
+//       { label: "Event Coverage", tone: "amber" },
+//       { label: "Structured Data", tone: "orange" },
+//     ],
+//     tags: ["Next.js", "Technical SEO", "Schema markup"],
+//   },
   {
     site: "manpasandenterprises.co.in",
     title: "Manpasand Enterprises",
